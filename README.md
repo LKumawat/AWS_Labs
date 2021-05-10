@@ -1,2 +1,2 @@
 # AWS_Labs
-Network and Security labs
+AWS labs in Network and Security
